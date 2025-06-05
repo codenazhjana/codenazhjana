@@ -1,4 +1,18 @@
-## Hi there 👋
+
+</div>
+
+###
+
+
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 # 💫 About Me:
 # Hi-there-Im-Snehasish-<br><br><br><br>🎓 B.S. in Artificial Intelligence & Cyber Security @ IIT Patna<br><br>🧠 Exploring life with minimal "coded" tea & a few strong commitments<br><br>💡 Got into tech at 14 — thanks to a strict mom and way too much TV<br><br>⚙️ Now I build, break, and learn — in that order<br><br>🚀 Welcome to my GitHub journey<br>
